@@ -26,7 +26,7 @@ Sobald Sie alles eingerichtet haben, können Sie in den Quellcode-Editor wechsel
 
 Öffnen Sie anschließend den Tab "Test". 
 
-<img src="test.png" alt="test.png" width="70%" height="70%">
+<img src="test.png" alt="test.png" width="50%" height="50%">
 
 Klicken Sie auf "In Cloud Shell ausführen". Dann sollte sich unterhalb ein Terminal-Fenster öffnen, in dem der Code zur Testausführung hinterlegt ist und den Sie per Eingabetaste ausführen können (ggf. müssen Sie die Cloud Shell noch autorisieren).  
 
