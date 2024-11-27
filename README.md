@@ -20,7 +20,23 @@ Klicken Sie auf "Funktion mit einem Inline-Editor" erstellen. Vergeben Sie einen
 
 ![auth.png](auth.png)
 
+Sobald Sie alles eingerichtet haben, können Sie in den Quellcode-Editor wechseln. Fügen Sie dort den Code aus der Datei `function.js` ein (falls hier noch nichts hinterlegt ist).
 
+![quellcode.png](quellcode.png)
+
+Öffnen Sie anschließend den Tab "Test". 
+
+![test.png](test.png)
+
+Klicken Sie auf "In Cloud Shell ausführen". Dann sollte sich unterhalb ein Terminal-Fenster öffnen, in dem der Code zur Testausführung hinterlegt ist und den Sie per Eingabetaste ausführen können (ggf. müssen Sie die Cloud Shell noch autorisieren).  
+
+Anschließend können Sie unter "Messwerte" einsehen, welche Ressourcen für die Funktionsausführung benutzt wurden.
+
+![messwerte.png](messwerte.png)
+
+**Wichtig:**
+
+Löschen Sie die Ressourcen anschließend wieder (siehe Anleitung zu Übung 3, Aufgabe 1)!
 
 
 
