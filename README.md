@@ -2,6 +2,28 @@
 
 ![serverless.png](serverless.png)
 
+**Aufgabe 1 - Eine Google Cloud Run Function schreiben und testen**
+
+Hinweis: Diese Übung ist freiwillig! Sie erfordert zumindest das Anlegen eines kostenlosen Testaccounts unter [https://cloud.google.com/](https://cloud.google.com/). Selbst der kostenlose Test-Account erfordert jedoch die Angabe von z. B. Kreditkarteninformationen. Es liegt in ihrem eigenen Ermessen, ob Sie entsprechende Angaben machen möchten. Wichtig ist in jedem Fall, die angelegten Ressourcen wieder zu löschen (wie, das wird in dieser Anleitung erklärt). Die Verwendung der entsprechenden Dienste erfolgt jedoch unter eigener Verantwortung!  
+
+Anmerkung: Wir nutzen hier ein IaaS-Angebot der Google Cloud exemplarisch. Dies lässt sich bei anderen Cloud-Providern wie AWS, Azure, IBM etc. in ähnlicher Weise nutzen. 
+
+Für diese Aufgabe müssen Sie zunächst ein Projekt in der Google Cloud Console anlegen (siehe hierzu Anleitung zu Übung 3, Aufgabe 1).  
+
+In den Einstellungen müssen Sie folgende Berechtigungen aktivieren: Cloud Functions, Cloud Build, Artifact Registry, Cloud Run, Logging und Pub/Sub APIs.  
+
+Wählen Sie in der Cloud Console die Übersichtsseite zu Google Cloud Functions aus.  
+
+Klicken Sie auf "Funktion mit einem Inline-Editor" erstellen. Vergeben Sie einen Namen für die Funktion und wählen Sie eine Region aus.
+
+![function_1.png](function_1.png)
+
+
+
+
+
+
+
 **Hinweise:**
 
 Zunächst einmal können Sie dieses Repository wieder über git klonen.  
