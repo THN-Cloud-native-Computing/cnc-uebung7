@@ -14,7 +14,7 @@ In den Einstellungen müssen Sie folgende Berechtigungen aktivieren: Cloud Funct
 
 Wählen Sie in der Cloud Console die Übersichtsseite zu Google Cloud Functions aus.  
 
-Klicken Sie auf "Funktion mit einem Inline-Editor" erstellen. Vergeben Sie einen Namen für die Funktion und wählen Sie eine Region aus.
+Klicken Sie auf "Funktion mit einem Inline-Editor" erstellen. Vergeben Sie einen Namen für die Funktion, wählen Sie eine Region aus und wählen Sie unter Laufzeit "Node.js 20".
 
 ![function_1.png](function_1.png)
 
