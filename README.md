@@ -1,6 +1,6 @@
 # Übung 7 - Serverless Computing
 
-![microservices.jpg](microservices.jpg)
+![serverless.png](serverless.png)
 
 **Hinweise:**
 
