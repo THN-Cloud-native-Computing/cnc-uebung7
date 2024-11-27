@@ -18,7 +18,7 @@ Klicken Sie auf "Funktion mit einem Inline-Editor" erstellen. Vergeben Sie einen
 
 ![function_1.png](function_1.png)
 
-
+![auth.png](auth.png)
 
 
 
