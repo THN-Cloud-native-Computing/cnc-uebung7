@@ -1,4 +1,4 @@
-# Übung 6 - Microservice Architekturen
+# Übung 7 - Serverless Computing
 
 ![microservices.jpg](microservices.jpg)
 
